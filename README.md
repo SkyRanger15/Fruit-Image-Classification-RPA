@@ -7,5 +7,7 @@ This is RPA developed in UIpath studio.This RPA contains a ML Model trained to c
 
 To run this rpa:-
 1)Clone this Repository
+
 2)Download UIPath Studio, Open this folder
+
 3)Run the Main.xaml using UIpath Studio
